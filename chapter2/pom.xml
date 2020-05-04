@@ -20,6 +20,7 @@
     <modules>
         <module>Client</module>
         <module>Server</module>
+        <module>example</module>
     </modules>
 
     <properties>
