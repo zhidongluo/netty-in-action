@@ -21,6 +21,7 @@
         <module>chapter11</module>
         <module>chapter12</module>
         <module>chapter13</module>
+        <module>nio-example</module>
     </modules>
     <properties>
         <junit.version>4.11</junit.version>
@@ -69,8 +70,8 @@
                     <artifactId>maven-compiler-plugin</artifactId>
                     <version>3.3</version>
                     <configuration>
-                        <source>1.7</source>
-                        <target>1.7</target>
+                        <source>14</source>
+                        <target>14</target>
                     </configuration>
                 </plugin>
                 <plugin>
